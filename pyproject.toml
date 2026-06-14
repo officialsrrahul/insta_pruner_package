@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "insta-pruner"
-version = "0.1.0"
-description = "Automatically unfollow non-followers on Instagram with influencer filtering and live logging."
+version = "0.1.2"
+description = "Unfollows accounts from a provided list on Instagram, with influencer filtering and live logging."
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [

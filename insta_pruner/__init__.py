@@ -1,7 +1,7 @@
 """
 insta_pruner
 ------------
-A Python library to automatically unfollow non-followers on Instagram,
+A Python library that unfollows accounts from a provided list on Instagram,
 with influencer filtering and live logging.
 
 Usage:
@@ -17,5 +17,5 @@ Usage:
 
 from .pruner import Pruner
 
-__version__ = "0.1.0"
+__version__ = "0.1.2"
 __all__ = ["Pruner"]
